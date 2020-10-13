@@ -92,7 +92,7 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>4.12</version>
+			<version>4.13.1</version>
 <!--			<scope>test</scope>&lt;!&ndash; 如果编译不通过，去掉这行即可 &ndash;&gt;-->
 		</dependency>
 
